@@ -22,7 +22,21 @@ This project is a Flipkart clone version, created in **January 2023**. It is a *
 - **Node.js:** Server-side runtime environment.
 - **Express:** Web framework for building the REST API.
 - **MongoDB:** NoSQL database for storing user information and notes.
-  
+
+## Installation
+
+1. Clone the repository:
+   `git clone https://github.com/bashirafarhin/Flipkart.git`
+2. Install dependencies:
+   `cd Flipkart`
+3. Run the command `npm install` in both the client and server folders.
+4. Set up environment variables:
+   A sample `SampleEnvFile.txt` file is provided in the repository for your reference. You should create your own `.env` file in both directory of the project and update it with your own credentials.
+5. Run the application:
+   `npm run dev`
+6. Open your browser and go to:
+   `http://localhost:3000`
+   
 ## Deployment
 This application is deployed on Render's free tier, which may result in slower performance due to the cold start process. Free-tier servers are put to sleep after periods of inactivity (around 30 minutes), and waking them up can take approximately 30 seconds. This may cause the app to load more slowly initially.
 
