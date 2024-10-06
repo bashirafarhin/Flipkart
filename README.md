@@ -32,10 +32,12 @@ This project is a Flipkart clone version, created in **January 2023**. It is a *
 3. Run the command `npm install` in both the client and server folders.
 4. Set up environment variables:
    A sample `SampleEnvFile.txt` file is provided in the repository for your reference. You should create your own `.env` file in both directory of the project and update it with your own credentials.
-5. Run the application:
+5. Run the application/client:
    `npm run dev`
-6. Open your browser and go to:
-   `http://localhost:3000`
+6. Run the server on new terminal:
+   `nodemon index.js`
+7. Open your browser and go to:
+   `http://localhost:5173`
    
 ## Deployment
 This application is deployed on Render's free tier, which may result in slower performance due to the cold start process. Free-tier servers are put to sleep after periods of inactivity (around 30 minutes), and waking them up can take approximately 30 seconds. This may cause the app to load more slowly initially.
