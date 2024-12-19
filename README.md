@@ -1,7 +1,8 @@
-# [Flipkart Clone](https://flipkart2023.onrender.com)
+# Flipkart Clone
 
 This project is a Flipkart clone version, created in **January 2023**. It is a **MERN stack** application that offers a range of features, including responsiveness, authentication, and account management.
-![Screenshot 2024-10-04 192205](https://github.com/user-attachments/assets/82fae95d-7622-4573-8d87-e3d5e508cdb6)
+![Screenshot 2024-12-19 222724](https://github.com/user-attachments/assets/d6d9c0b0-e128-422f-888f-5be8b63d9606)
+
 
 ## Features
 
